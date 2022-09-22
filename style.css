@@ -1,0 +1,337 @@
+body{
+    justify-content: right;
+      color: rgb(7, 20, 20);
+      align-items: center;
+      text-decoration-color: rgb(210, 201, 201);
+      }
+     .first-part{
+      background-image: url("images/10.jpg");
+      background-size: cover;
+      width:95%;
+      height: 300px;
+      text-align: center;
+      margin: 30px;
+     }
+     #sec h1{
+      color: blue;
+      font-size: 40px;
+     }
+
+  
+  .univers{
+    width: auto;
+    align-content: center;
+    background-image: url("images/giphy.gif");
+    background-size: cover;
+    display: inline-block;
+    flex-direction: row;
+    text-align:center;
+    justify-content:space-around;
+    padding: 20px;
+    margin: 40px;
+  }
+   h1,h2{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+  }
+   .univers a{
+    color: rgb(38, 232, 64);
+    font-size: large;
+   }
+  .footer{
+    background-color: rgb(125, 173, 239);
+    width: 100%;
+    font-family: cursive;
+  }
+  
+
+  
+  .first-part a{
+    color:rgb(86, 103, 12);
+    margin-left: 1300px;
+    margin-bottom: 100px;
+    font-size: 30px;
+  } 
+  
+  
+  
+ 
+  .univers1 {
+    background-image: url('images/earth.jpg');
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 200px;
+    background-size: cover;
+    
+  }
+  .univers1:hover{
+    opacity: 1;
+    width: 500px;
+     background-image: url("giphy.gif");
+     border-radius: 20px;
+   
+    
+  }
+  .univers1 p{
+ display: none;
+ color:lightgreen;
+  }
+  .univers1:hover p{
+  display: block;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  }
+
+  
+  .univers2{
+    background-image: url('images/mercury.jpg');
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 200px;
+    background-size: cover;
+    
+    
+
+  }
+  .univers2:hover{
+    opacity: 1;
+    width: 500px;
+     background-image: url("giphy.gif");
+     border-radius: 20px;
+    
+  }
+  .univers2 p{
+ display: none;
+ color:lightgreen;
+  }
+  .univers2:hover p{
+  display: block;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  }
+
+  .univers3{
+    background-image: url('images/jupiter.jpg');
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 200px;
+    background-size: cover;
+
+  }
+  .univers3:hover{
+    opacity: 1;
+    width: 500px;
+     background-image: url("giphy.gif");
+     border-radius: 20px;
+    
+  }
+  .univers3 p{
+ display: none;
+ color:lightgreen;
+  }
+  .univers3:hover p{
+  display: block;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  }
+
+  .univers4{
+    background-image: url('images/mars.jpg');
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 200px;
+    background-size: cover;
+
+  }
+  .univers4:hover{
+    opacity: 1;
+    width: 500px;
+     background-image: url("giphy.gif");
+     border-radius: 20px;
+    
+  }
+  .univers4 p{
+ display: none;
+ color:lightgreen;
+  }
+  .univers4:hover p{
+  display: block;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  }
+
+  .univers5{
+    background-image: url('images/Neptune1.jpg');
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 200px;
+    background-size: cover;
+  }
+  .univers5:hover{
+    opacity: 1;
+    width: 500px;
+     background-image: url("giphy.gif");
+     border-radius: 20px;
+    
+  }
+  .univers5 p{
+ display: none;
+ color:lightgreen;
+  }
+  .univers5:hover p{
+  display: block;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  }
+
+  .univers6{
+    background-image: url('images/Pluto.jpg');
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 200px;
+    background-size: cover;
+  }
+  .univers6:hover{
+    opacity: 1;
+    width: 500px;
+     background-image: url("giphy.gif");
+     border-radius: 20px;
+    
+  }
+  .univers6 p{
+ display: none;
+ color:lightgreen;
+  }
+  .univers6:hover p{
+  display: block;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  }
+
+  .univers7{
+    background-image: url('images/saturrn.jpg');
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 200px;
+    background-size: cover;
+  }
+  .univers7:hover{
+    opacity: 1;
+    width: 500px;
+     background-image: url("giphy.gif");
+     border-radius: 20px;
+    
+  }
+  .univers7 p{
+ display: none;
+ color:lightgreen;
+  }
+  .univers7:hover p{
+  display: block;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  }
+
+  .univers8{
+    background-image: url('images/uranus.jpg');
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 200px;
+    background-size: cover;
+  }
+  .univers8:hover{
+    opacity: 1;
+    width: 500px;
+     background-image: url("giphy.gif");
+     border-radius: 20px;
+    
+  }
+  .univers8 p{
+ display: none;
+ color:lightgreen;
+  }
+  .univers8:hover p{
+  display: block;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  }
+
+  .univers9{
+    background-image: url('images/Venus.jpg');
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 200px;
+    background-size: cover;
+    color: black;
+  }
+  .univers9:hover{
+    opacity: 1;
+    width: 500px;
+     background-image: url("giphy.gif");
+     border-radius: 20px;
+    
+  }
+  .univers9 p{
+ display: none;
+ color:lightgreen;
+  }
+  .univers9:hover p{
+  display: block;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  } 
+  #abt{
+    height: 400px;
+    display: flex;
+    align-items: center;
+  }
+  #abt1 p{
+    float: right;
+    align-items: center;
+
+  }
+
+
+  
+  .abt2 h1{
+    color: blue;
+    font-size: 40px;
+  
+  }
+  
+  #contact-part{
+    padding: 10px;
+    text-align: center;
+    display: block;
+    width: auto;
+    height: 400px;
+    align-content: center;
+  }
+  #contact-part input{
+    padding: 10px;
+    width: 300px;
+  }
+  #contact-part h2{
+    color: blue;
+    font-size: 40px;
+  }
+  #contact-part button{
+background-color: darkgreen;
+height: 50px;
+width: 60px;
+cursor: pointer;
+color: white;
+  }
+
+  
+ 
